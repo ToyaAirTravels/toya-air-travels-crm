@@ -1,0 +1,6 @@
+{
+  "name": "TOYA AIR TRAVELS — Passenger Management System",
+  "description": "Passenger registration, family & emergency contacts, document management, service tracking, and payment receipts for TOYA AIR TRAVELS.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
